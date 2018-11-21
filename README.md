@@ -1,5 +1,3 @@
 # play-tensorflow
-save some tutorial code 
+Tensorflow practice based on the tutorial class: https://www.youtube.com/channel/UC2Sj-_Y1_F17BwwNJ0wg4EA/videos
 
-Self study tensorflow
-Based on last face recognition example
